@@ -2,4 +2,4 @@ services:
   - type: web
     name: whatsapp-chatbot-simulator
     runtime: docker
-    plan: free
+

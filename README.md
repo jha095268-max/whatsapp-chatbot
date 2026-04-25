@@ -1,4 +1,4 @@
-# WhatsApp Chatbot Backend Simulation
+# WhatsApp Chatbot Backend 
 
 This is a simple Java + Spring Boot backend project built for an internship assignment.
 
@@ -98,21 +98,6 @@ Expected response:
 }
 ```
 
-## Step-by-Step Submission Guide
-
-1. Create a GitHub repository and push this project.
-2. Record a 2-3 minute demo video showing:
-   - project structure
-   - API request in Postman/curl
-   - console logs
-   - API response
-3. Take screenshots of:
-   - successful terminal startup
-   - Postman request/response
-   - console log output
-4. Submit:
-   - GitHub repo link
-   - demo video link
 
 ## Bonus: Deploy on Render
 
